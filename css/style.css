@@ -63,6 +63,7 @@ li::marker{
 	font-family: young-serif;
 	color: hsl(14, 45%, 36%);
 	font-weight:400px;
+	width:100%;
 }
 
 span{
